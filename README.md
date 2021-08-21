@@ -1,8 +1,8 @@
 # Easy Start Manager 
   This project aims to create connection between java source and .sh script source.
 
-  Today, too many linux distros is around the world. These linux systems have two main core which are debian and arch. 
-  Sometimes they use different package manager and sometimes they use same. However, and of the day there are too many 
+  Today, too many linux distros is around the world. These linux systems have two main cores which are debian and arch. 
+  Sometimes they use different package manager and sometimes they use same. However, end of the day there are too many 
   package manager in the world of linux users. The ESM project will not add another package manager in this system. 
   We just want to combine them under a roof with their adventages.  
 
