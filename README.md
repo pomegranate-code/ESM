@@ -18,13 +18,13 @@ If you want to do this installation please be sure about these package managers.
     Open a terminal : 
     $ git clone {copy of the link of project.} (copy)
 
-#### 2. Set directory in file > 'Fresh-Installation-Script'
+#### 2. Set directory in file > 'ESM'
     $ cd ESM/
 
-#### 3. Make file 'fresh.sh' executable : 
+#### 3. Make file 'esm.sh' executable : 
     $ chmod +x esm.sh
 
-#### 4. Run the fresh.sh :
+#### 4. Run the esm.sh :
     $ ./esm.sh
         
 ## Terminal Code :
