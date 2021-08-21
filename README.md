@@ -16,7 +16,7 @@ If you want to do this installation please be sure about these package managers.
 ## Installation Steps :
 #### 1. Create clone of this repo.
     Open a terminal : 
-    $ git clone {copy of the link of project.} (copy)
+    $ git clone https://github.com/psei-code/ESM.git
 
 #### 2. Set directory in file > 'ESM'
     $ cd ESM/
